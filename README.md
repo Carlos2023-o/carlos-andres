@@ -10,6 +10,15 @@
 - 💬 Pregúntame sobre: Bases de datos, automatizaciones, python
 - 📫 Cómo contactarme: andres.prieto.santos@gmail.com
 
+## 📂 Proyectos Destacados
+
+- 🎨 Automatizacion para pruebas para pagina Urban Groucers https://github.com/Carlos2023-o/qa-project-Urban-Grocers-app-es
+
+  
+- 📊 Pruebas de QA para pagina web Urban routes https://github.com/Carlos2023-o/qa-project-Urban-Routes-es
+
+
+
 ## 🛠️ Tecnologías y herramientas
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
